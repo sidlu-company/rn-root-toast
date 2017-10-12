@@ -1,0 +1,24 @@
+{
+    "version": "2.0.1",
+    "name": "rn-root-toast",
+    "description": "react native toast like component, pure javascript solution",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sidlu-company/rn-root-toast.git"
+    },
+    "license": "MIT",
+    "main": "./index.js",
+    "keywords": [
+        "react-component",
+        "react-native",
+        "ios",
+        "android",
+        "image",
+        "video",
+        "focus"
+    ],
+    "dependencies": {
+        "rn-root-siblings": "^1.2.1",
+        "prop-types": "^15.5.10"
+    }
+}
